@@ -35,14 +35,10 @@ Each dataset contains 500 rows.
 * Calculated total revenue and remaining stock.
 * Identified frequently ordered books and high-spending customers.
 
-
-```
-
 ## Project Report
 
-Refer to `Bookstore_SQL_Project_Report.pdf` for SQL queries, explanations, and output tables.
 
+Refer to [https://github.com/Khushichaudhary06/Bookstore-SQL/blob/main/Bookstore_SQL_Project_Report.pdf](Bookstore_SQL_Project_Report.pdf) for SQL queries, explanations, and output tables.
 ## Author
-
-Khushi Chaudhary
+## Khushi Chaudhary
 
