@@ -40,7 +40,7 @@ Each dataset contains 500 rows.
 
 ## Project Report
 
-Refer to `https://github.com/Khushichaudhary06/Bookstore-SQL/blob/main/Bookstore_SQL_Project_Report.pdf` for SQL queries, explanations, and output tables.
+Refer to `Bookstore_SQL_Project_Report.pdf` for SQL queries, explanations, and output tables.
 
 ## Author
 
